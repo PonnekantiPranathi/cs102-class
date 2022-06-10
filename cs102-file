@@ -1,0 +1,2 @@
+git -status -- This command is used to visualize the commits and changes that we've done so far.
+git commit -m    -- This command is used to commit the changes to the server.
