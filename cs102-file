@@ -1,2 +1,5 @@
 git -status -- This command is used to visualize the commits and changes that we've done so far.
 git commit -m    -- This command is used to commit the changes to the server.
+git push         -- This command is used to push the changes to the main server.
+git pull         -- This commnad is used to pull the changes from the server to our local machine.
+
